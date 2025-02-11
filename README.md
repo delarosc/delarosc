@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+My Name is Cristian and I am a computer scinece major and expect to graduate in May 2025
+
+- 🔭 I’m currently working on machine learning models and building data-driven applications
+- 🌱 I’m currently learning advanced algorithms, computer networking and software devepment techniques. 
+- 👯 I’m looking to collaborate on software development projects, AI research and improve UX.
 
 <!--
 **delarosc/delarosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
